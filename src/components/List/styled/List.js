@@ -1,3 +1,8 @@
 import styled from 'styled-components';
 
-export default styled.ul``;
+const ul = styled.ul`
+    padding: 0;
+    padding-left: 16px;
+`;
+
+export default ul;

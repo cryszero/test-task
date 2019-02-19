@@ -1,3 +1,13 @@
 {
-    
+    "type": "object",
+    "required": [
+        "repositoryName"
+    ],
+    "properties": {
+        "repositoryName": {
+            "type": "string",
+            "title": "123",
+            "default": "react"
+        }
+    }
 }

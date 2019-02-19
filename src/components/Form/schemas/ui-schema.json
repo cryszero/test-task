@@ -1,0 +1,6 @@
+{
+    "repositoryName": {
+        "ui:autofocus": true,
+        "ui:emptyValue": "react"
+    }
+}
